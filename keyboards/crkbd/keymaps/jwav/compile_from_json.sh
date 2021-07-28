@@ -18,6 +18,6 @@ python3 keypos.py
 # cat my_combos.h >> temps.c
 # mv temp.c keymap.c
 
-qmk compile
+qmk compile --keyboard crkbd --keymap jwav
 exit 0
 

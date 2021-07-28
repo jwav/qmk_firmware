@@ -264,8 +264,8 @@
 #define km31a  LGUI_T(KC_F1)
 #define k31b  KC_TRNS
 #define km31b  KC_TRNS
-#define k320  KC_LSFT
-#define km320  KC_RSFT
+#define k320  KC_TRNS
+#define km320  KC_TRNS
 #define k321  TO(4)
 #define km321  KC_NO
 #define k322  KC_VOLD
@@ -286,8 +286,8 @@
 #define km329  KC_VOLD
 #define k32a  KC_NO
 #define km32a  TO(4)
-#define k32b  KC_RSFT
-#define km32b  KC_LSFT
+#define k32b  KC_TRNS
+#define km32b  KC_TRNS
 #define k400 _split_3x6_3(KC_TRNS
 #define km400  KC_TRNS
 #define k401  KC_NO

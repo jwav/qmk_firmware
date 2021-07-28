@@ -88,10 +88,10 @@
       "ANY(fEXLM)",
       "KC_TRNS",
       "KC_RALT",
-      "LT(3,KC_ENT)",
+      "LT(3,KC_SPC)",
       "KC_TRNS",
       "KC_TRNS",
-      "MO(3)",
+      "KC_TRNS",
       "KC_TRNS"
     ],
     [
@@ -135,7 +135,7 @@
       "DF(0)",
       "DF(2)",
       "KC_TRNS",
-      "LT(3,KC_SPC)",
+      "LT(3,KC_ENT)",
       "KC_APP"
     ],
     [
@@ -163,7 +163,7 @@
       "LCTL_T(KC_F9)",
       "LGUI_T(KC_F10)",
       "KC_TRNS",
-      "KC_LSFT",
+      "KC_TRNS",
       "TO(4)",
       "KC_VOLD",
       "KC_MUTE",
@@ -174,7 +174,7 @@
       "KC_MPLY",
       "KC_MFFD",
       "KC_NO",
-      "KC_RSFT",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
