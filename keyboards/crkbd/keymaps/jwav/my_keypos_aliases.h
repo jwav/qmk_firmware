@@ -193,7 +193,7 @@
 #define k21b  KC_TRNS
 #define km21b  LALT_T(KC_BSPC)
 #define k220  LGUI_T(KC_SPC)
-#define km220  KC_TRNS
+#define km220  RGUI_T(KC_SPC)
 #define k221  KC_PAST
 #define km221  KC_PGDN
 #define k222  KC_P7
@@ -214,7 +214,7 @@
 #define km229  KC_P7
 #define k22a  KC_PGDN
 #define km22a  KC_PAST
-#define k22b  KC_TRNS
+#define k22b  RGUI_T(KC_SPC)
 #define km22b  LGUI_T(KC_SPC)
 #define k300 _split_3x6_3(KC_TRNS
 #define km300  KC_TRNS
@@ -264,8 +264,8 @@
 #define km31a  LGUI_T(KC_F1)
 #define k31b  KC_TRNS
 #define km31b  KC_TRNS
-#define k320  KC_TRNS
-#define km320  KC_TRNS
+#define k320  LGUI_T(KC_SPC)
+#define km320  RGUI_T(KC_ENT)
 #define k321  TO(4)
 #define km321  KC_NO
 #define k322  KC_VOLD
@@ -286,8 +286,8 @@
 #define km329  KC_VOLD
 #define k32a  KC_NO
 #define km32a  TO(4)
-#define k32b  KC_TRNS
-#define km32b  KC_TRNS
+#define k32b  RGUI_T(KC_ENT)
+#define km32b  LGUI_T(KC_SPC)
 #define k400 _split_3x6_3(KC_TRNS
 #define km400  KC_TRNS
 #define k401  KC_NO
