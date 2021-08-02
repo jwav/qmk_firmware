@@ -121,7 +121,7 @@
 #define k11b  KC_TRNS
 #define km11b  KC_TRNS
 #define k120  LGUI_T(KC_ENT)
-#define km120  KC_TRNS
+#define km120  RGUI_T(KC_ENT)
 #define k121  fMICR
 #define km121  fCOLN
 #define k122  fBSLS
@@ -142,7 +142,7 @@
 #define km129  fBSLS
 #define k12a  fCOLN
 #define km12a  fMICR
-#define k12b  KC_TRNS
+#define k12b  RGUI_T(KC_ENT)
 #define km12b  LGUI_T(KC_ENT)
 #define k200 _split_3x6_3(KC_TRNS
 #define km200  KC_TRNS
