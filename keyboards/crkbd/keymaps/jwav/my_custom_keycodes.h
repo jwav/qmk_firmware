@@ -1,6 +1,9 @@
 #include QMK_KEYBOARD_H
 #include "my_french_keycode_aliases.h"
 
+#define LAYER_NUM 2
+#define LAYER_SYM 1
+
 enum custom_keycodes {
     QMKBEST = SAFE_RANGE,
     KC_ECIRC,
